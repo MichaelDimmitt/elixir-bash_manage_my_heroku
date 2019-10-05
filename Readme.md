@@ -1,3 +1,5 @@
+https://github.com/heroku/cli/issues/424
+
 curl -n https://api.heroku.com/account   -H "Accept: application/vnd.heroku+json; version=3"
 curl -i -n -X GET https://api.heroku.com/apps -H "Accept: application/vnd.heroku+json; version=3"
 
